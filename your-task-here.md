@@ -3,8 +3,8 @@
 
 <details>
   <summary>Click me or don't</summary><br/>
-  nice that you are interested in this option :) <br/>
-  but let's proceed with the tasks
+  do you like this markdown feature? :) <br/>
+  ok, but let's proceed with the tasks
 </details>
 
 **Let's get started**
