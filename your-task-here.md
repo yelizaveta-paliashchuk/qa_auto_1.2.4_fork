@@ -19,5 +19,5 @@
 - execute `git reset --soft hg455kj` (replace the commit id with your third commit id) - you changed back the HEAD to the third commit!
 - check git logs and check what happened with your code (magic!)
 - do the same using 2 other parameters for `git reset` command
-- write down what you have noticed in the code after using each of these 3 parameters
+- write down and share with us what you have noticed in the code after using each of these 3 parameters
 - save logs for all thiese actions into a file and share it with us!
