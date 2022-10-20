@@ -15,9 +15,9 @@
 4. Try to reset your commits:
 - first, check git logs using a specific command and get commits id's (preferably short versions of them)
 - execute `git reset --soft bc9cfc7` (just replace the commit id with your second commit id) - you reset current HEAD to the second commit!
-- check git logs and check what happened with your code
+- check git logs (using git command) and check what happened with your code
 - execute `git reset --soft hg455kj` (replace the commit id with your third commit id) - you changed back the HEAD to the third commit!
-- check git logs and check what happened with your code (magic!)
+- check git logs (using git command) and check what happened with your code (magic!)
 - do the same using 2 other parameters for `git reset` command
 - write down and share with us what you have noticed in the code after using each of these 3 parameters
 - save logs for all thiese actions into a file and share it with us!
