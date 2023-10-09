@@ -20,4 +20,4 @@
 - check git logs (using git command) and check what happened with your code (magic!)
 - do the same using 2 other parameters for `git reset` command
 - write down and share with us what you have noticed in the code after using each of these 3 parameters
-- save logs for all thiese actions into a file and share it with us!
+- save logs for all theese actions into a file and share it with us!
