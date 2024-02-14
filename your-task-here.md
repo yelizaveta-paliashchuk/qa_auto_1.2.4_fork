@@ -26,21 +26,21 @@
 
 # This is my answer
 
-1. Executing `git reset --soft`command
+1. **Executing `git reset --soft`command**
 
 - after the execution of the `git reset --soft` command with my second commit's id, I had noticed that the HEAD was reset to the second commit, but third file was still staged, ready to be commited.
 - after executing `git log` I had noticed that the commit with the third file had gone from the logs.
 - after the execution of the `git reset --soft` command with my third commit's id, I had noticed that the HEAD was reset back to the third commit, and third file is commited again.
 - after executing `git log` I had noticed that the third commit was back in the logs.
 
-2. Executing `git reset` mixed command.
+2. **Executing `git reset` mixed command.**
 
 - after the execution of the `git reset` command with my second commit's id, I had noticed that the HEAD was reset to the second commit, and the third file became untracked.
 - after executing `git log` I had noticed that the commit with the third file had gone from the logs.
 - after the execution of the `git reset` command with my third commit's id, I had noticed that the HEAD was reset back to the third commit, and third file is commited again.
 - after executing `git log` I had noticed that the third commit was back in the logs.
 
-3. Executing `git reset --hard`command.
+3. **Executing `git reset --hard`command.**
 
 - after the execution of the `git reset --hard` command with my second commit's id, I had noticed that the HEAD was reset to the second commit, and the third file was removed from the project.
 - after executing `git log` I had noticed that the commit with the third file had gone from the logs.
