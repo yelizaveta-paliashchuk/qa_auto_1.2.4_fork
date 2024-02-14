@@ -47,4 +47,4 @@
 - after the execution of the `git reset --hard` command with my third commit's id, I had noticed that the HEAD was reset back to the third commit, and third file was back in the project and commited.
 - after executing `git log` I had noticed that the third commit was back in the logs.
 
-The link to the logs file can be found (here)[logs(1.2.4).md] .
+The link to the logs file can be found [here](logs(1.2.4).md)
